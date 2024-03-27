@@ -1,8 +1,10 @@
 body{
     background-image: url(image/musterd.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
     margin: 10px;
     font-family: Poppins:ital;
+    
 }
 .sec-01{
     display: flex;
