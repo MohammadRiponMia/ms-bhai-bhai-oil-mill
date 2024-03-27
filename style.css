@@ -1,9 +1,16 @@
-body{
+.body{
     background-image: url(image/musterd.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     font-family: Poppins:ital;
     
+}
+.sec-12{
+    background-color: skyblue;
+    display: flex;
+    gap: 32%;
+    margin: 0px;
+    padding: opx;
 }
 .sec-01{
     display: flex;
