@@ -5,7 +5,15 @@ body{
     font-family: Poppins;
     
 }
-
+.sec-0{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    text-decoration:underline;
+}
+#sec-00{
+    padding-left: 150px;
+}
 
 
 .sec-01{
@@ -20,12 +28,12 @@ body{
 }
 .logo{
     display: flex;
-    padding: 20px 0px 0px 30px;
+    padding: 0px 0px 0px 15px;
 }
 .sec-1{
     list-style: none;
     display: flex;
-padding-top: 25px;
+padding-top: 10px;
     gap: 17%;
     font-size: 20px;
     font-weight: 600;
@@ -37,7 +45,7 @@ padding-top: 25px;
 
 .sec-3{
     text-align:center;
-    padding-top: 35%;
+    padding-top: 32%;
     color:black;
     font-size: 15px;
     padding-bottom: 0px;
