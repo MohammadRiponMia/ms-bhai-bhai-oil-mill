@@ -5,17 +5,20 @@
     font-family: Poppins:ital;
     
 }
+.body-1{
+    background-color: skyblue;
+}
 .sec-12{
     background-color: skyblue;
     display: flex;
-    gap: 32%;
+    gap: 25%;
     margin: 0px;
     padding: opx;
 }
 .sec-01{
     display: flex;
-    gap: 32%;
-    padding: 10px 10px 0px 10px;
+    gap: 25%;
+
 }
 .sec-001{
     font-weight:900;
