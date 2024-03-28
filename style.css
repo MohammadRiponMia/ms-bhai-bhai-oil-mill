@@ -1,15 +1,14 @@
 .body{
     background-image: url(image/musterd.jpg);
-    background-size: cover;
+    background-size:auto;
     background-repeat: no-repeat;
-    font-family: Poppins:ital;
+    font-family: Poppins;
     
 }
 .body-1{
-    background-color: skyblue;
+    background-image: url(image/musterd.jpg);
 }
 .sec-12{
-    background-color: skyblue;
     display: flex;
     gap: 25%;
     margin: 0px;
