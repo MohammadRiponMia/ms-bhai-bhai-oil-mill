@@ -1,19 +1,13 @@
-.body{
+body{
     background-image: url(image/musterd.jpg);
-    background-size:auto;
+    background-size:cover;
     background-repeat: no-repeat;
     font-family: Poppins;
     
 }
-.body-1{
-    background-image: url(image/musterd.jpg);
-}
-.sec-12{
-    display: flex;
-    gap: 25%;
-    margin: 0px;
-    padding: opx;
-}
+
+
+
 .sec-01{
     display: flex;
     gap: 25%;
